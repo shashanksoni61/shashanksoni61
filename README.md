@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shashanksoni61
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Next js
+- 📫 How to reach me shashanksoni61@gmail.com
 
 <!---
 shashanksoni61/shashanksoni61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
