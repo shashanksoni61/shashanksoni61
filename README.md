@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shashanksoni61
-- 👀 I’m interested in web development
+- 👋 Hi, I’m Shashank Soni
+- 📝 A self-taught Full Stack Web Developer
 - 🌱 I’m currently learning Next js
 - 📫 How to reach me shashanksoni61@gmail.com
 
