@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Shashank Soni
-- 📝 A self-taught Full Stack Web Developer
-- 🌱 I’m currently learning Next js
-- 📫 How to reach me shashanksoni61@gmail.com
+## Hi 👋, I’m Shashank Soni
 
-<!---
-shashanksoni61/shashanksoni61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a A self-taught Full Stack Web Developer (MERN Stack)  graduated in Computer Science and currently working on some side projects to learn new skills like Blockchain, Next Js.
+
+[![linkedin](https://img.shields.io/badge/-Shashank%20Soni-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/shashank-soni-697470128/)](https://www.linkedin.com/in/shashank-soni-697470128/)
+[![Gmail](https://img.shields.io/badge/-Shashank%20Soni-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:shashanksoni61@gmail.com)
+
+![Shashank Soni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashanksoni61&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues,prs&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksoni61&count_private=true&langs_count=6&hide=TeXt&hide_border=true&layout=compact&theme=radical)
